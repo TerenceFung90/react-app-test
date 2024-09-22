@@ -16,9 +16,7 @@ This is test app for ReactJS + NextJS + Tailwind + RsJS + Material UI
     - setup with Tailwind, ref: https://mui.com/material-ui/integrations/interoperability/#tailwind-css
 6. install and configure RsJS
     - ref: https://rxjs.dev/guide/installation
-
-Optional for unit test
-7. install karma and jasmine
+7. [Optional] install karma and jasmine for unit test
 
 ## Build app
 package / build the app
